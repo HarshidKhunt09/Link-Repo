@@ -1,4 +1,4 @@
 # Link-Repo
 
 GMeet Link:
-https://meet.google.com/qkg-oznj-yzn
+https://meet.google.com/osc-ugbx-ngr
